@@ -1,1 +1,1 @@
-#!bin/bash/nsu Betty
+my name is betty
