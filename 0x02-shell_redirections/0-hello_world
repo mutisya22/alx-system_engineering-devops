@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "<F12>Hello,World"
+echo "Hello,World"
